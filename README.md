@@ -2,9 +2,19 @@
 
 ## About the project
 
+### How to execute this project
+
+To run this project you must:
+
+1. Initiate python's virtual enviroment with `python -m venv .` in your terminal.
+2. Install requirements from `requirements.txt` with `pip3 install -r requirements.txt`
+3. Run main program with `python main.py`
+
 ## Tools used
 
 ### Languages
+
+- Python
 
 ## Project members
 
